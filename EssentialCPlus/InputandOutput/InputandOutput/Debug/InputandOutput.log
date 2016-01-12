@@ -1,0 +1,26 @@
+﻿生成启动时间为 2015/3/2 21:36:01。
+     1>项目“D:\学习资料\C++练习\Essential C++课后习题\InputandOutput\InputandOutput\InputandOutput.vcxproj”在节点 2 上(build 个目标)。
+     1>InitializeBuildStatus:
+         正在创建“Debug\InputandOutput.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+       GenerateTargetFrameworkMonikerAttribute:
+       正在跳过目标“GenerateTargetFrameworkMonikerAttribute”，因为所有输出文件相对于输入文件而言都是最新的。
+       ClCompile:
+         d:\ProgFils\VC\bin\CL.exe /c /AI"C:\Program Files\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0" /Zi /clr /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _UNICODE /D UNICODE /EHa /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /TP /analyze- /errorReport:prompt Inaoutput.cpp /clr:nostdlib 
+         Inaoutput.cpp
+     1>Inaoutput.cpp(26): warning C4018: “<”: 有符号/无符号不匹配
+     1>Inaoutput.cpp(39): warning C4018: “<”: 有符号/无符号不匹配
+         所有输出均为最新。
+       Link:
+         d:\ProgFils\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\学习资料\C++练习\Essential C++课后习题\InputandOutput\Debug\InputandOutput.exe" /INCREMENTAL /NOLOGO /MANIFEST /ManifestFile:"Debug\InputandOutput.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"D:\学习资料\C++练习\Essential C++课后习题\InputandOutput\Debug\InputandOutput.pdb" /ASSEMBLYDEBUG /TLBID:1 /DYNAMICBASE /FIXED:NO /NXCOMPAT /MACHINE:X86 Debug\Inaoutput.obj
+         "Debug\.NETFramework,Version=v4.0.AssemblyAttributes.obj"
+         InputandOutput.vcxproj -> D:\学习资料\C++练习\Essential C++课后习题\InputandOutput\Debug\InputandOutput.exe
+       Manifest:
+         C:\Program Files\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"D:\学习资料\C++练习\Essential C++课后习题\InputandOutput\Debug\InputandOutput.exe;#1" /manifest Debug\InputandOutput.exe.intermediate.manifest
+       FinalizeBuildStatus:
+         正在删除文件“Debug\InputandOutput.unsuccessfulbuild”。
+         正在对“Debug\InputandOutput.lastbuildstate”执行 Touch 任务。
+     1>已完成生成项目“D:\学习资料\C++练习\Essential C++课后习题\InputandOutput\InputandOutput\InputandOutput.vcxproj”(build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:01.82

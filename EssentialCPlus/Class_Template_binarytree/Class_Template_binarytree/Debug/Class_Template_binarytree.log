@@ -1,0 +1,96 @@
+﻿生成启动时间为 2015/3/10 14:58:25。
+     1>项目“D:\学习资料\C++练习\Essential C++课后习题\Class_Template_binarytree\Class_Template_binarytree\Class_Template_binarytree.vcxproj”在节点 2 上(build 个目标)。
+     1>InitializeBuildStatus:
+         正在对“Debug\Class_Template_binarytree.unsuccessfulbuild”执行 Touch 任务。
+       ClCompile:
+         d:\ProgFils\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt BinaryTree.cpp
+         BinaryTree.cpp
+     1>d:\学习资料\c++练习\essential c++课后习题\class_template_binarytree\class_template_binarytree\binarytree.cpp(10): error C2059: 语法错误:“<”
+                 d:\学习资料\c++练习\essential c++课后习题\class_template_binarytree\class_template_binarytree\binarytree.cpp(19): 参见对正在编译的类 模板 实例化“BTnode<elemtype>”的引用
+     1>d:\学习资料\c++练习\essential c++课后习题\class_template_binarytree\class_template_binarytree\binarytree.cpp(10): error C2238: 意外的标记位于“;”之前
+     1>d:\学习资料\c++练习\essential c++课后习题\class_template_binarytree\class_template_binarytree\binarytree.cpp(44): error C2989: “BinaryTree”: 类 模板 已经声明为非类 模板
+                 d:\学习资料\c++练习\essential c++课后习题\class_template_binarytree\class_template_binarytree\binarytree.cpp(10) : 参见“BinaryTree”的声明
+     1>d:\学习资料\c++练习\essential c++课后习题\class_template_binarytree\class_template_binarytree\binarytree.cpp(21): error C3857: “BinaryTree”: 不允许使用多个 模板 参数列表
+     1>d:\学习资料\c++练习\essential c++课后习题\class_template_binarytree\class_template_binarytree\binarytree.cpp(48): error C2039: “{ctor}”: 不是“BTnode<elemtype>”的成员
+     1>d:\学习资料\c++练习\essential c++课后习题\class_template_binarytree\class_template_binarytree\binarytree.cpp(110): error C2988: 不可识别的模板声明/定义
+     1>d:\学习资料\c++练习\essential c++课后习题\class_template_binarytree\class_template_binarytree\binarytree.cpp(110): error C2059: 语法错误:“<”
+     1>d:\学习资料\c++练习\essential c++课后习题\class_template_binarytree\class_template_binarytree\binarytree.cpp(111): error C2039: “=”: 不是“`global namespace'”的成员
+     1>d:\学习资料\c++练习\essential c++课后习题\class_template_binarytree\class_template_binarytree\binarytree.cpp(119): error C2039: “insert”: 不是“`global namespace'”的成员
+     1>d:\学习资料\c++练习\essential c++课后习题\class_template_binarytree\class_template_binarytree\binarytree.cpp(120): error C2143: 语法错误 : 缺少“;”(在“{”的前面)
+     1>d:\学习资料\c++练习\essential c++课后习题\class_template_binarytree\class_template_binarytree\binarytree.cpp(120): error C2447: “{”: 缺少函数标题(是否是老式的形式表?)
+     1>d:\学习资料\c++练习\essential c++课后习题\class_template_binarytree\class_template_binarytree\binarytree.cpp(127): error C2143: 语法错误 : 缺少“;”(在“<”的前面)
+     1>d:\学习资料\c++练习\essential c++课后习题\class_template_binarytree\class_template_binarytree\binarytree.cpp(127): error C2182: “BinaryTree”: 非法使用“void”类型
+     1>d:\学习资料\c++练习\essential c++课后习题\class_template_binarytree\class_template_binarytree\binarytree.cpp(127): error C2433: “BinaryTree”: 不允许在数据声明中使用“inline”
+     1>d:\学习资料\c++练习\essential c++课后习题\class_template_binarytree\class_template_binarytree\binarytree.cpp(127): error C2988: 不可识别的模板声明/定义
+     1>d:\学习资料\c++练习\essential c++课后习题\class_template_binarytree\class_template_binarytree\binarytree.cpp(127): error C2059: 语法错误:“<”
+     1>d:\学习资料\c++练习\essential c++课后习题\class_template_binarytree\class_template_binarytree\binarytree.cpp(139): error C2039: “remove_root”: 不是“`global namespace'”的成员
+     1>d:\学习资料\c++练习\essential c++课后习题\class_template_binarytree\class_template_binarytree\binarytree.cpp(140): error C2143: 语法错误 : 缺少“;”(在“{”的前面)
+     1>d:\学习资料\c++练习\essential c++课后习题\class_template_binarytree\class_template_binarytree\binarytree.cpp(140): error C2447: “{”: 缺少函数标题(是否是老式的形式表?)
+     1>d:\学习资料\c++练习\essential c++课后习题\class_template_binarytree\class_template_binarytree\binarytree.cpp(161): error C2143: 语法错误 : 缺少“;”(在“<”的前面)
+     1>d:\学习资料\c++练习\essential c++课后习题\class_template_binarytree\class_template_binarytree\binarytree.cpp(161): error C2182: “BinaryTree”: 非法使用“void”类型
+     1>d:\学习资料\c++练习\essential c++课后习题\class_template_binarytree\class_template_binarytree\binarytree.cpp(161): error C2086: “int BinaryTree”: 重定义
+                 d:\学习资料\c++练习\essential c++课后习题\class_template_binarytree\class_template_binarytree\binarytree.cpp(127) : 参见“BinaryTree”的声明
+     1>d:\学习资料\c++练习\essential c++课后习题\class_template_binarytree\class_template_binarytree\binarytree.cpp(161): error C2988: 不可识别的模板声明/定义
+     1>d:\学习资料\c++练习\essential c++课后习题\class_template_binarytree\class_template_binarytree\binarytree.cpp(161): error C2059: 语法错误:“<”
+     1>d:\学习资料\c++练习\essential c++课后习题\class_template_binarytree\class_template_binarytree\binarytree.cpp(161): error C2039: “clear”: 不是“`global namespace'”的成员
+     1>d:\学习资料\c++练习\essential c++课后习题\class_template_binarytree\class_template_binarytree\binarytree.cpp(161): error C2065: “elemtype”: 未声明的标识符
+     1>d:\学习资料\c++练习\essential c++课后习题\class_template_binarytree\class_template_binarytree\binarytree.cpp(172): error C2065: “elemtype”: 未声明的标识符
+     1>d:\学习资料\c++练习\essential c++课后习题\class_template_binarytree\class_template_binarytree\binarytree.cpp(172): error C2039: “preorder”: 不是“BTnode”的成员
+                 d:\学习资料\c++练习\essential c++课后习题\class_template_binarytree\class_template_binarytree\binarytree.cpp(7) : 参见“BTnode”的声明
+     1>d:\学习资料\c++练习\essential c++课后习题\class_template_binarytree\class_template_binarytree\binarytree.cpp(173): error C2143: 语法错误 : 缺少“;”(在“{”的前面)
+     1>d:\学习资料\c++练习\essential c++课后习题\class_template_binarytree\class_template_binarytree\binarytree.cpp(173): error C2447: “{”: 缺少函数标题(是否是老式的形式表?)
+     1>d:\学习资料\c++练习\essential c++课后习题\class_template_binarytree\class_template_binarytree\binarytree.cpp(191): error C2039: “inorder”: 不是“BTnode<elemtype>”的成员
+     1>d:\学习资料\c++练习\essential c++课后习题\class_template_binarytree\class_template_binarytree\binarytree.cpp(202): error C2039: “postorder”: 不是“BTnode<elemtype>”的成员
+     1>d:\学习资料\c++练习\essential c++课后习题\class_template_binarytree\class_template_binarytree\binarytree.cpp(208): error C2275: “std::string”: 将此类型用作表达式非法
+                 d:\progfils\vc\include\xstring(2063) : 参见“std::string”的声明
+     1>d:\学习资料\c++练习\essential c++课后习题\class_template_binarytree\class_template_binarytree\binarytree.cpp(208): error C2065: “bt”: 未声明的标识符
+     1>d:\学习资料\c++练习\essential c++课后习题\class_template_binarytree\class_template_binarytree\binarytree.cpp(210): error C2065: “bt”: 未声明的标识符
+     1>d:\学习资料\c++练习\essential c++课后习题\class_template_binarytree\class_template_binarytree\binarytree.cpp(210): error C2228: “.insert”的左边必须有类/结构/联合
+                 类型是“'unknown-type'”
+     1>d:\学习资料\c++练习\essential c++课后习题\class_template_binarytree\class_template_binarytree\binarytree.cpp(211): error C2065: “bt”: 未声明的标识符
+     1>d:\学习资料\c++练习\essential c++课后习题\class_template_binarytree\class_template_binarytree\binarytree.cpp(211): error C2228: “.insert”的左边必须有类/结构/联合
+                 类型是“'unknown-type'”
+     1>d:\学习资料\c++练习\essential c++课后习题\class_template_binarytree\class_template_binarytree\binarytree.cpp(212): error C2065: “bt”: 未声明的标识符
+     1>d:\学习资料\c++练习\essential c++课后习题\class_template_binarytree\class_template_binarytree\binarytree.cpp(212): error C2228: “.insert”的左边必须有类/结构/联合
+                 类型是“'unknown-type'”
+     1>d:\学习资料\c++练习\essential c++课后习题\class_template_binarytree\class_template_binarytree\binarytree.cpp(213): error C2065: “bt”: 未声明的标识符
+     1>d:\学习资料\c++练习\essential c++课后习题\class_template_binarytree\class_template_binarytree\binarytree.cpp(213): error C2228: “.insert”的左边必须有类/结构/联合
+                 类型是“'unknown-type'”
+     1>d:\学习资料\c++练习\essential c++课后习题\class_template_binarytree\class_template_binarytree\binarytree.cpp(214): error C2065: “bt”: 未声明的标识符
+     1>d:\学习资料\c++练习\essential c++课后习题\class_template_binarytree\class_template_binarytree\binarytree.cpp(214): error C2228: “.insert”的左边必须有类/结构/联合
+                 类型是“'unknown-type'”
+     1>d:\学习资料\c++练习\essential c++课后习题\class_template_binarytree\class_template_binarytree\binarytree.cpp(215): error C2065: “bt”: 未声明的标识符
+     1>d:\学习资料\c++练习\essential c++课后习题\class_template_binarytree\class_template_binarytree\binarytree.cpp(215): error C2228: “.insert”的左边必须有类/结构/联合
+                 类型是“'unknown-type'”
+     1>d:\学习资料\c++练习\essential c++课后习题\class_template_binarytree\class_template_binarytree\binarytree.cpp(216): error C2065: “bt”: 未声明的标识符
+     1>d:\学习资料\c++练习\essential c++课后习题\class_template_binarytree\class_template_binarytree\binarytree.cpp(216): error C2228: “.insert”的左边必须有类/结构/联合
+                 类型是“'unknown-type'”
+     1>d:\学习资料\c++练习\essential c++课后习题\class_template_binarytree\class_template_binarytree\binarytree.cpp(219): error C2065: “bt”: 未声明的标识符
+     1>d:\学习资料\c++练习\essential c++课后习题\class_template_binarytree\class_template_binarytree\binarytree.cpp(219): error C2228: “.preorder”的左边必须有类/结构/联合
+                 类型是“'unknown-type'”
+     1>d:\学习资料\c++练习\essential c++课后习题\class_template_binarytree\class_template_binarytree\binarytree.cpp(219): error C2065: “bt”: 未声明的标识符
+     1>d:\学习资料\c++练习\essential c++课后习题\class_template_binarytree\class_template_binarytree\binarytree.cpp(219): error C2228: “._root”的左边必须有类/结构/联合
+                 类型是“'unknown-type'”
+     1>d:\学习资料\c++练习\essential c++课后习题\class_template_binarytree\class_template_binarytree\binarytree.cpp(221): error C2065: “bt”: 未声明的标识符
+     1>d:\学习资料\c++练习\essential c++课后习题\class_template_binarytree\class_template_binarytree\binarytree.cpp(221): error C2228: “.remove”的左边必须有类/结构/联合
+                 类型是“'unknown-type'”
+     1>d:\学习资料\c++练习\essential c++课后习题\class_template_binarytree\class_template_binarytree\binarytree.cpp(223): error C2065: “bt”: 未声明的标识符
+     1>d:\学习资料\c++练习\essential c++课后习题\class_template_binarytree\class_template_binarytree\binarytree.cpp(223): error C2228: “.inorder”的左边必须有类/结构/联合
+                 类型是“'unknown-type'”
+     1>d:\学习资料\c++练习\essential c++课后习题\class_template_binarytree\class_template_binarytree\binarytree.cpp(223): error C2065: “bt”: 未声明的标识符
+     1>d:\学习资料\c++练习\essential c++课后习题\class_template_binarytree\class_template_binarytree\binarytree.cpp(223): error C2228: “._root”的左边必须有类/结构/联合
+                 类型是“'unknown-type'”
+     1>d:\学习资料\c++练习\essential c++课后习题\class_template_binarytree\class_template_binarytree\binarytree.cpp(225): error C2065: “bt”: 未声明的标识符
+     1>d:\学习资料\c++练习\essential c++课后习题\class_template_binarytree\class_template_binarytree\binarytree.cpp(225): error C2228: “.remove”的左边必须有类/结构/联合
+                 类型是“'unknown-type'”
+     1>d:\学习资料\c++练习\essential c++课后习题\class_template_binarytree\class_template_binarytree\binarytree.cpp(227): error C2065: “bt”: 未声明的标识符
+     1>d:\学习资料\c++练习\essential c++课后习题\class_template_binarytree\class_template_binarytree\binarytree.cpp(227): error C2228: “.postorder”的左边必须有类/结构/联合
+                 类型是“'unknown-type'”
+     1>d:\学习资料\c++练习\essential c++课后习题\class_template_binarytree\class_template_binarytree\binarytree.cpp(227): error C2065: “bt”: 未声明的标识符
+     1>d:\学习资料\c++练习\essential c++课后习题\class_template_binarytree\class_template_binarytree\binarytree.cpp(227): error C2228: “._root”的左边必须有类/结构/联合
+                 类型是“'unknown-type'”
+     1>已完成生成项目“D:\学习资料\C++练习\Essential C++课后习题\Class_Template_binarytree\Class_Template_binarytree\Class_Template_binarytree.vcxproj”(build 个目标)的操作 - 失败。
+
+生成失败。
+
+已用时间 00:00:00.50
